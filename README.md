@@ -1,5 +1,5 @@
 # Issues
-
+The app displays list of all issues on GitHub
 **TODO: Add description**
 
 ## Installation
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/issues](https://hexdocs.pm/issues).
-

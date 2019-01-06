@@ -14,5 +14,6 @@ defmodule Issues do
   """
   def hello do
     :world
+    :new
   end
 end
