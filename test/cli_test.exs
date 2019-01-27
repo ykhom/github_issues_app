@@ -2,7 +2,7 @@ defmodule CliTest do
   use ExUnit.Case
   import Issues.CLI, only: [ parse_args: 1,
                              sort_into_descending_order: 1 ]
-  doctest Issues
+  
 
   test ":help returned by option parsing with -h and --help options" do
     assert parse_args(["-h", "anything"]) == :help
